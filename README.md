@@ -1,7 +1,7 @@
 # 📚 Repositório Principal – Cursos ITA
 
 ## 📌 Sobre Este Repositório
-Este repositório serve como um diretório principal para armazenar e organizar projetos, arquivos e informações relacionadas aos cursos que realizei no Instituto Tecnológico da Aeronáutica (ITA). Aqui você encontrará diversas implementações e estudos desenvolvidos ao longo da minha jornada acadêmica e profissional.
+Este repositório serve como um diretório principal para armazenar e organizar projetos, arquivos e informações relacionadas aos cursos que realizei no Instituto Tecnológico da Aeronáutica (ITA). Aqui você encontrará diversas implementações e estudos desenvolvidos ao longo da minha jornada acadêmica e profissional. Use este repositório para compreender como eu construí os projetos, evite realizar a cópia (plágio) dos códigos, para que desenvolvendo os seus próprios códigos (inspirando-se em códigos disponíveis que já resolvem o mesmo problema), você evolua muito mais rápido. 
 
 ## 🛠️ Tecnologias Utilizadas
 Os cursos abrangeram diversas linguagens e tecnologias, incluindo:
