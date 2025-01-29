@@ -7,7 +7,7 @@
 - **Linguagem**: Python
 - **Framework**: Django
 - **Banco de Dados**: Banco de dados padrão do Django (SQLite)
-- **Ferramentas de Modelagem**: Cartões CRC, Draw.io
+- **Ferramentas de Modelagem**: Cartões CRC, Canva
 - **Metodologias**: TDD, Modelagem Ágil, Programação Orientada a Objetos
 
 ## Funcionalidades
@@ -76,9 +76,8 @@ Foram escolhidos diagramas de domínio e arquitetura para representar claramente
 Caso queira contribuir, faça um fork do repositório, crie uma branch com sua melhoria e envie um pull request!
 
 ## Autor
-- Nome: Seu Nome
-- Email: seuemail@email.com
-- GitHub: [Seu GitHub](https://github.com/seu-usuario)
+- Nome: Renan
+- Email: renansousasilva1@gmail.com
 
 ---
 
