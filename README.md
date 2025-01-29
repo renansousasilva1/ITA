@@ -1,85 +1,66 @@
-# Esse eu já li!
+📚 Repositório Principal – Cursos ITA
+📌 Sobre Este Repositório
+Este repositório serve como um diretório principal para armazenar e organizar projetos, arquivos e informações relacionadas aos cursos que realizei no Instituto Tecnológico da Aeronáutica (ITA). Aqui você encontrará diversas implementações e estudos desenvolvidos ao longo da minha jornada acadêmica e profissional.
 
-## Descrição do Projeto
-"Esse eu já li!" é um sistema de gamificação de leitura onde os usuários podem marcar livros que já leram, acumular pontos e ganhar troféus com base na quantidade e no gênero dos livros lidos. Além disso, há um ranking com os 10 usuários com maior pontuação.
+🛠️ Tecnologias Utilizadas
+Os cursos abrangeram diversas linguagens e tecnologias, incluindo:
 
-## Tecnologias Utilizadas
-- **Linguagem**: Python
-- **Framework**: Django
-- **Banco de Dados**: Banco de dados padrão do Django (SQLite)
-- **Ferramentas de Modelagem**: Cartões CRC, Canva
-- **Metodologias**: TDD, Modelagem Ágil, Programação Orientada a Objetos
+Python 🐍
+Java ☕
+JavaScript 🌐
+Django
+Banco de Dados (SQL e NoSQL)
+Metodologias: TDD, Modelagem Ágil, POO (Cartões CRC)
+Ferramentas: Git, Docker, CI/CD, entre outras.
+📂 Estrutura do Repositório
+O repositório está organizado em diretórios específicos para cada curso ou projeto desenvolvido:
 
-## Funcionalidades
-- **Autenticação de usuários**
-- **Visualização de lista de livros**
-- **Marcar leitura de um livro**
-- **Pontuação automática baseada no número de páginas**
-- **Conquista de troféus ao ler 5 livros de um mesmo gênero**
-- **Ranking dos 10 melhores leitores**
-- **Perfil do usuário com histórico de livros lidos e troféus conquistados**
+Copiar
+Editar
+/Cursos_ITA
+├── Python/
+│   ├── Projeto_1/
+│   ├── Projeto_2/
+│   └── ...
+├── Java/
+│   ├── Projeto_1/
+│   ├── Projeto_2/
+│   └── ...
+├── JavaScript/
+│   ├── Projeto_1/
+│   ├── Projeto_2/
+│   └── ...
+├── Documentação/
+│   ├── Apostilas/
+│   ├── PDFs/
+│   └── Anotações/
+├── README.md
+Cada pasta contém códigos-fonte, documentação e materiais de referência.
 
-## Instalação e Configuração
-### 1. Clone o Repositório
-```bash
- git clone https://github.com/seu-usuario/esse-eu-ja-li.git
- cd esse-eu-ja-li
-```
-### 2. Configurar Ambiente Virtual
-Crie e ative um ambiente virtual:
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate   # Windows
-```
-### 3. Instalar Dependências
-```bash
-pip install -r requirements.txt
-```
+📜 Objetivo
+O objetivo deste repositório é centralizar e compartilhar conhecimento adquirido nos cursos do ITA, facilitando o acesso aos projetos e estudos desenvolvidos.
 
-### 4. Configurar o Banco de Dados
-Realize as migrações para configurar o banco de dados:
-```bash
-python manage.py migrate
-```
+📥 Como Utilizar
+Clonar o repositório
+bash
+Copiar
+Editar
+git clone https://github.com/seu-usuario/Cursos_ITA.git
+Navegar até a linguagem desejada
+bash
+Copiar
+Editar
+cd Cursos_ITA/Python
+Executar um projeto específico (caso seja um projeto em Python, por exemplo)
+bash
+Copiar
+Editar
+python main.py
+🚀 Contribuições
+Se desejar contribuir, fique à vontade para enviar um Pull Request ou abrir uma Issue com sugestões.
 
-### 5. Executar o Servidor
-Inicie o servidor local:
-```bash
-python manage.py runserver
-```
-O sistema estará acessível em `http://localhost:8000`
-
-## Estrutura do Projeto
-```
-/esse-eu-ja-li
-├── app/                 # Aplicação principal do Django
-│   ├── migrations/      # Arquivos de migração do banco de dados
-│   ├── models.py        # Modelos do banco de dados
-│   ├── views.py         # Lógica das views
-│   ├── templates/       # Arquivos HTML para renderização
-│   ├── tests.py         # Testes automatizados
-├── manage.py            # Script de gerenciamento do Django
-├── requirements.txt     # Dependências do projeto
-├── db.sqlite3           # Banco de dados SQLite
-└── README.md            # Documentação do projeto
-```
-
-## Modelagem do Sistema
-### Diagrama de Domínio
-Os diagramas foram criados utilizando os princípios da modelagem ágil com foco em Cartões CRC (Classes, Responsabilidades e Colaborações). Eles podem ser encontrados no arquivo [diagramas_sistema.pdf](./diagramas_sistema.pdf).
-
-### Justificativa dos Diagramas
-Foram escolhidos diagramas de domínio e arquitetura para representar claramente as relações entre as entidades do sistema e a estrutura geral do projeto. Essa escolha foi feita para garantir que a comunicação entre as partes interessadas fosse eficaz e para facilitar futuras manutenções no código.
-
-## Contribuição
-Caso queira contribuir, faça um fork do repositório, crie uma branch com sua melhoria e envie um pull request!
-
-## Autor
-- Nome: Renan
-- Email: renansousasilva1@gmail.com
-
----
-
-**MIT License** - Este projeto é de código aberto.
-
+📧 Contato
+Nome: Seu Nome
+GitHub: github.com/seu-usuario
+E-mail: seuemail@email.com
+Este repositório está licenciado sob a MIT License. 🚀
