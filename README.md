@@ -1,8 +1,9 @@
-📚 Repositório Principal – Cursos ITA
-📌 Sobre Este Repositório
+
+**📚 Repositório Principal – Cursos ITA**
+**📌 Sobre Este Repositório**
 Este repositório serve como um diretório principal para armazenar e organizar projetos, arquivos e informações relacionadas aos cursos que realizei no Instituto Tecnológico da Aeronáutica (ITA). Aqui você encontrará diversas implementações e estudos desenvolvidos ao longo da minha jornada acadêmica e profissional.
 
-🛠️ Tecnologias Utilizadas
+**🛠️ Tecnologias Utilizadas**
 Os cursos abrangeram diversas linguagens e tecnologias, incluindo:
 
 Python 🐍
@@ -12,7 +13,9 @@ Django
 Banco de Dados (SQL e NoSQL)
 Metodologias: TDD, Modelagem Ágil, POO (Cartões CRC)
 Ferramentas: Git, Docker, CI/CD, entre outras.
-📂 Estrutura do Repositório
+
+**📂 Estrutura do Repositório**
+
 O repositório está organizado em diretórios específicos para cada curso ou projeto desenvolvido:
 
 Copiar
