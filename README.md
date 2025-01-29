@@ -31,9 +31,9 @@ O objetivo deste repositório é centralizar e compartilhar o conhecimento adqui
 Se desejar contribuir, fique à vontade para enviar um Pull Request ou abrir uma Issue com sugestões.
 
 📧 Contato
-Nome: Renan
-GitHub: github.com/renansousasilva1
-E-mail: renansousasilva1@gmail.com
+- Nome: Renan
+- GitHub: github.com/renansousasilva1
+- E-mail: renansousasilva1@gmail.com
    
 
    
